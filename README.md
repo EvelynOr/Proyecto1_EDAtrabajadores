@@ -1,5 +1,9 @@
 EDA
 
+El análisis exploratorio de datos (EDA) es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos. Ayuda a determinar la mejor manera de manipular los orígenes de datos para obtener las respuestas que necesita, lo que permite a los científicos de datos descubrir patrones, detectar anomalías, probar una hipótesis o comprobar supuestos. [1]
+
+
+
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
 Documentar aprendizaje de Python y otros software para el analisis de datos 
@@ -30,3 +34,7 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 
 Foto:barcelona.smartninja.es
+
+
+
+[1] https://www.ibm.com/es-es/cloud/learn/exploratory-data-analysis
