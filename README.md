@@ -37,4 +37,4 @@ Foto:barcelona.smartninja.es
 
 
 
-[1] https://www.ibm.com/es-es/cloud/learn/exploratory-data-analysis
+[1] www.ibm
