@@ -22,3 +22,8 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 2. La forma de hacer un EDA depende del tipo de informacion que se requiere analizar
 
 3. Formular las preguntas adecuadas previo a iniciar el EDA guia y facilita el proceso
+
+
+
+
+![Proyecto 1](https://user-images.githubusercontent.com/82233779/171050003-c134fc10-f07b-4b6e-b7ef-7fa562e138b5.PNG)
