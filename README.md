@@ -15,10 +15,10 @@ Se presenta el mismo proyecto en: Python, Power BI y Excel
 Cada uno de los archivos muestra el tiempo en el que se realizo
 
 
-¿Que aprendi?
+¿Qué aprendí?
 
 1. Existen diferentes metodos y funciones en Python para realizar una misma accion
 
 2. La forma de hacer un EDA depende del tipo de informacion que se requiera analizar
 
-3. Formular las preguntas adecuadas previo a iniciar el EDA facilita el proceso
+3. Formular las preguntas adecuadas previo a iniciar el EDA guia y facilita el proceso
