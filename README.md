@@ -34,7 +34,8 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 
 
+![image](https://user-images.githubusercontent.com/82233779/171078408-1c0ff4c6-a7a8-4ccd-9581-71a2975fa647.png)
 
 
-![image](https://user-images.githubusercontent.com/82233779/171077771-e85e708d-9574-45a4-8615-e277a1aca697.png)
+
 
