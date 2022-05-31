@@ -26,11 +26,12 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 ¿Qué aprendí?
 
-1. Existen diferentes metodos y funciones en Python para realizar una misma accion
+1. Existen diferentes métodos y funciones en Python para realizar una misma acción.
 
-2. La forma de hacer un EDA depende del tipo de informacion que se requiere analizar y el estado de la data
+2. La forma de hacer un EDA depende del tipo de información que se requiere analizar y el estado de la data
 
-3. Formular las preguntas adecuadas previo a iniciar el EDA guia y facilita el proceso
+3. Formular las preguntas adecuadas previo a iniciar el EDA guía y facilita el proceso.
+
 
 
 
