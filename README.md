@@ -7,7 +7,8 @@ El análisis exploratorio de datos (EDA) es utilizado por los científicos de da
 Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
 Objetivo del proyecto
-   Documentar aprendizaje de Python y otros software para el analisis de datos 
+
+   Documentar el aprendizaje de Python y otros software para el analisis de datos 
 
 Objetivos del analisis: 
 
