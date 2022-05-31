@@ -27,7 +27,7 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 1. Existen diferentes metodos y funciones en Python para realizar una misma accion
 
-2. La forma de hacer un EDA depende del tipo de informacion que se requiere analizar
+2. La forma de hacer un EDA depende del tipo de informacion que se requiere analizar y el estado de la data
 
 3. Formular las preguntas adecuadas previo a iniciar el EDA guia y facilita el proceso
 
