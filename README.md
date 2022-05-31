@@ -39,7 +39,9 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 
 
-![image](https://user-images.githubusercontent.com/82233779/171078408-1c0ff4c6-a7a8-4ccd-9581-71a2975fa647.png)
+
+![image](https://user-images.githubusercontent.com/82233779/171176588-8a27e1c7-b670-4f20-b294-722ed95711bb.png)
+
 
 
 
