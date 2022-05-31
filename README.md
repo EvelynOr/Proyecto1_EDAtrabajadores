@@ -8,7 +8,7 @@ Nivel: principiantes, sin ningun conocimiento previo en Python o Power BI
 
 Objetivo del proyecto
 
-   Documentar el aprendizaje de Python y otros software para el analisis de datos 
+     Documentar el aprendizaje de Python y otros software para el analisis de datos 
 
 Objetivos del analisis: 
 
