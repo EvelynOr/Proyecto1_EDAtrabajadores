@@ -1,7 +1,7 @@
 EDA (por sus siglas en inglés exploratory data analysis)
 
 
-El análisis exploratorio de datos, es utilizado por los científicos de datos para analizar e investigar conjuntos de datos y resumir sus principales características, empleando a menudo métodos de visualización de datos. Ayuda a determinar la mejor manera de manipular los orígenes de datos para obtener las respuestas que necesita, lo que permite a los científicos de datos descubrir patrones, detectar anomalías, probar una hipótesis o comprobar supuestos (www.ibm).
+El análisis exploratorio de datos o, en resumen, EDA es un enfoque para analizar datos con el fin de resumir las principales características de los datos obtener una mejor comprensión del conjunto de datos, descubrir relaciones entre diferentes variables y extraer variables importantes para el problema estamos tratando de resolver (Data Analysis with Python, Coursera). 
 
 
 
