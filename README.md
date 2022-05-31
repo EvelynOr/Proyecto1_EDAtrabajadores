@@ -17,6 +17,7 @@ Objetivos del analisis:
 2. Power BI: utilizar instrucciones y graficas basicas en PBI 
 
 
+
 Se presenta el mismo proyecto en: Python, Power BI y Excel
 
 Cada uno de los archivos muestra el tiempo en el que se realizo
