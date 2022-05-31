@@ -29,6 +29,5 @@ Cada uno de los archivos muestra el tiempo en el que se realizo
 
 
 
+![image](https://user-images.githubusercontent.com/82233779/171077771-e85e708d-9574-45a4-8615-e277a1aca697.png)
 
-![Proyecto 1](https://user-images.githubusercontent.com/82233779/171050003-c134fc10-f07b-4b6e-b7ef-7fa562e138b5.PNG)
-Foto:barcelona.smartninja.es
